@@ -1,0 +1,32 @@
+DVBViewer und Recording Service Backup
+DVBViewer and Recording Service Backup
+========================================================
+
+Deutsch
+--------------------------------------------------------
+backup-dvbviewer.cmd speichert alle wesentlichen Daten des DVBViewer und des Recording Service in einer Sicherungs-Datei.
+
+Um das Script auf dem eigenen System lauffaehig zu machen, öffne die Datei backup-dvbviewer.cmd in einem Editor und passe die am Anfang der Datei angeführten und beschriebenen Parameter an.
+
+Wie die Konfiguration wiederherstellen?
+1) DVBViewer und Recording Service beenden
+2) Daten aus der Sicherungs-Datei in die urspruenglichen Verzeichnisse kopieren
+3) Recording Service und DVBViewer neu starten
+
+
+English
+--------------------------------------------------------
+backup-dvbviewer.cmd saves all crucial DVBViewer and Recording Service data in a backup file.
+
+To make the script work on your own system, open the file backup-dvbviewer.cmd in an editor and modify the parameters listed and described at the top of the file.
+
+How to restore the configuration?
+1) Close DVBViewer and Recording Service
+2) Copy data from the backup file to the originating folders
+3) Restart Recording Service and DVBViewer
+
+
+Lizenzen/Licenses
+--------------------------------------------------------
+1) 7-Zip, GNU LGPL license, http://www.7-zip.org
+2) wtee, Mozilla Public License 1.1, http://code.google.com/p/wintee
